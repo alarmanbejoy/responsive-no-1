@@ -141,6 +141,7 @@ main {
 
 .facts {
     margin: 50px 217px;
+    text-align: center;
 }
 
 .some-facts {
@@ -283,7 +284,7 @@ main {
     }
 
     .facts {
-        margin: 5px 10px;
+        margin: 5px 5px;
         text-align: center;
     }
 
